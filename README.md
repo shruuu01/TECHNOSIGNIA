@@ -11,6 +11,9 @@ This repository contains the tasks and assignments completed during my internshi
 - 📄 Day 5 - Git & GitHub
 - 📄 Day 6 - HTML 
 - 📄 Day 7 - CSS
+- 📄 Day 8 - JavaScript
+- 📄 Day 9 - Advanced JavaScript
+- 📄 Day 10 - React
 - Inprocess...
 
 ## 🎯 Objectives
